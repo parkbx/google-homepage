@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+/* NAV SECTION */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li a {
+    text-decoration: none;
+}
+
+.nav-left {
+    float: left;
+}
+
+.nav-right {
+    float: right;
+}

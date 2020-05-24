@@ -52,6 +52,10 @@ body {
     font-family: arial, sans-serif;
 }
 
+p {
+    font-size: small;
+}
+
 a {
     color: #5f6368;
     font-size: 13px;
@@ -66,11 +70,11 @@ a:hover {
 ul {
     overflow: hidden;
     background-color: #ffffff;
+    display: flex;
 }
 
 li {
     float: left;
-    position: relative;
 }
 
 li a {
@@ -79,6 +83,13 @@ li a {
     text-align: center;
 }
 
+/* .div-nav-container {
+    display: flex;
+} */
+
+.nav-right {
+    margin-left: auto;
+}
 
 
 /* BODY CONTENT  */
@@ -102,6 +113,10 @@ footer ul {
 
 footer a {
     font-size: 14px;
+}
+
+.footer-right {
+    margin-left: auto;
 }
 
 /* .div-page-container {

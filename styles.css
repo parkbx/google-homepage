@@ -1,6 +1,6 @@
 body {
   font-family: arial, sans-serif;
-  margin: 0px;
+  margin: 0;
 }
 
 button {
@@ -35,6 +35,34 @@ li a:hover {
 .nav-right {
   float: right;
 }
+
+.a-google-app {
+    padding: 10px 0 0;
+}
+
+.image-app {
+    width: 30px;
+    height: 30px;
+}
+
+/* BODY SECTION  */
+.div-main-content {
+    margin: 150px auto 0;
+    text-align: center;
+    line-height: 2;
+}
+
+.div-searchbar {
+    border: 0.1px solid #;
+    width: 25%;
+    margin: auto;
+}
+
+.image-searchbar {
+    width: 20px;
+    height: 20px;
+}
+
 
 /* FOOTER SECTION */
 

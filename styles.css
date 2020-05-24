@@ -46,3 +46,25 @@ table {
   border-spacing: 0;
 }
 
+
+/* OVERALL CONTENT */
+body {
+    font-family: arial, sans-serif;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* NAV CONTENT  */
+
+
+/* BODY CONTENT  */
+
+
+/* FOOTER CONTENT  */
